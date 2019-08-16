@@ -21,7 +21,7 @@
 
 ## Outline
 
-This video should cover writing our first application. Should get input from a user, and conditionally print something to the screen.
+This video should cover writing our first application. Should get input from a user, and conditionally print something to the screen. This will be our first "dynamic" application - this just means that our user will see different content depending on what type of information they enter. 
 
 Tell the user that we're going to run it a lot - sometimes, we won't see what we're hoping to see, but we'll do a lot of testing for ourselves. 
 
